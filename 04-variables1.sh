@@ -1,9 +1,10 @@
 #!/bin/bash
 
+# Arguments
 PERSON1=$1
 PERSON2=$2
 
-echo "$PERSON1:: hi how are you $PERSON2?"
-echo "$PERSON2:: am good $PERSON1, how about you?"
-echo "$PERSON1:: am good too $PERSON2, what's up?"
-echo "$PERSON2:: Nothing u have to say"
+echo "$PERSON1:: Welcome to Alaska $PERSON2"
+echo "$PERSON2:: Thank you $PERSON1, Finally not on Zoom Webinar"
+echo "$PERSON1:: So, do we have a deal"
+echo "$PERSON2:: Yes, if you make Ukraine joins Russia"
